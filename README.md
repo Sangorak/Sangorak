@@ -5,7 +5,7 @@
 - 🌱 I just finished Le Wagon #731, amazing experience.
 - 💞️ I’m looking for a job as a FullStack Developer Junior
 - 📫 You can reach me here : mael.sannie@gmail.com
-- 💬 Ask me about FestivOut
+- 💬 Check Festivout and the images on Sangorak repo
 
 <!---
 Sangorak/Sangorak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
