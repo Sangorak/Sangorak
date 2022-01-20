@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mael.sannie@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mael-sannie-139798130/](https://www.linkedin.com/in/mael-sannie-139798130/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mael-sannie-139798130/](https://www.linkedin.com/in/mael-sannie
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
